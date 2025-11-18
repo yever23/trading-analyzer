@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; padding: 20px; background:#f6f8fa; color:#111;}
+.container { max-width:900px; margin:0 auto; background:white; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+label { display:block; margin:8px 0; }
+input, select { padding:8px; margin-left:8px;}
+button { padding:8px 12px; margin-top:8px; cursor:pointer; border-radius:6px; }
+img { border:1px solid #e1e4e8; border-radius:6px; margin-top:10px;}
