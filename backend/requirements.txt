@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+transformers
+torch
+tweepy
+keras
+tensorflow
+requests
+python-multipart
+Jinja2
+python-dateutil
